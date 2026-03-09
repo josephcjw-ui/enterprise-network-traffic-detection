@@ -42,4 +42,4 @@
 - 兼顾网络安全工程思路与数据分析方法
 
 ## 作者
-Zicheng Wang
+Jinwei Chen
